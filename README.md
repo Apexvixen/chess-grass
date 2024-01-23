@@ -104,13 +104,13 @@ public class EnemyMovement : MonoBehaviour
     }
 }
 
-![start](file:///C:/fotos%20you%20need/Screenshot%202024-01-18%20180438.png)
+![start](readmeVisuals/Screenshot%202024-01-18%20180438.png)
 
 ## Product 2: "Projectmappen op GitHub"
 
-![why cuz i just see some real problems](file:///C:/fotos%20you%20need/Screenshot%202024-01-18%20183250.png) 
+![why](readmeVisuals/Screenshot%202024-01-18%20183250.png)
 
-Zorg dat deze verwijst naar je Develop branch.
+
 
 ## Product 3: Build op Github
 
@@ -130,7 +130,7 @@ Zorg dat deze verwijst naar je Develop branch.
 
 ## Product 7: Class Diagram voor volledige codebase 
 
-![](file:///C:/fotos%20you%20need/JA.png)
+![](readmeVisuals/JA.png)
 
 ## Product 8: Prototype test video
 
