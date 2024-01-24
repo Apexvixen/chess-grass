@@ -121,9 +121,9 @@ public class EnemyMovement : MonoBehaviour
 
 
 ## Product 5: Issues met debug screenshots op GitHub 
-
-
-
+![why](readmeVisuals/break.png)
+![why](readmeVisuals/break2.png)
+![why](readmeVisuals/break3.png)
 ## Product 6: Game design met onderbouwing 
 
 
@@ -135,7 +135,7 @@ public class EnemyMovement : MonoBehaviour
 ## Product 8: Prototype test video
 
 
-[![example test video](https://ucarecdn.com/dbdc3ad0-f375-40ad-8987-9e6451b28b50/)](https://www.youtube.com/watch?v=CzzRML1swF0)
+[why](readmeVisuals/Screenshot 2024-01-18 180438.png)(https://www.youtube.com/watch?v=CzzRML1swF0)
 
 ## Product 9: SCRUM planning inschatting 
 
